@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /login
+Disallow: /test
+Disallow: /supplies
+Disallow: /faqs
+Allow: /
+
+User-agent: facebookexternalhit
+Allow: /
+
+Sitemap: https://quiroinnova.com/sitemap.xml

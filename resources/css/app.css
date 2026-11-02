@@ -1,0 +1,44 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --azamora-primary: #1b3f90;
+  --azamora-accent: #b8cf38;
+  --azamora-secondary: #82cbe8;
+  --azamora-dark: #1c2442;
+}
+
+
+.banner-swiper .swiper-pagination-bullet {
+  background-color: white;
+  opacity: 0.25;
+}
+
+.banner-swiper .swiper-pagination-bullet-active {
+  opacity: 1;
+}
+
+.hide-scroll {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+.hide-scroll::-webkit-scrollbar {
+  display: none;
+}
+
+.text-gradient {
+  background-image: linear-gradient(to right, #ffffff, #82cbe8) !important;
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent !important;
+  background-clip: text !important;
+  display: inline-block;
+}
+
+.text-gradient-primary {
+  background-image: linear-gradient(to right, #1b3f90, #82cbe8) !important;
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent !important;
+  background-clip: text !important;
+  display: inline-block;
+}

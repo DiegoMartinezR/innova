@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   width="431.1398"
+   height="423.30771"
+   id="svg64"
+   sodipodi:docname="feevale_official_logo_vertical_with_inkscape.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title44">Feevale symbol and logo (vertical)</title>
+  <defs
+     id="defs68" />
+  <sodipodi:namedview
+     id="namedview66"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     showgrid="false"
+     inkscape:zoom="1.216326"
+     inkscape:cx="135.65442"
+     inkscape:cy="185.80545"
+     inkscape:window-width="1920"
+     inkscape:window-height="1131"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg64"
+     units="mm"
+     showborder="true"
+     inkscape:showpageshadow="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <g
+     id="Layer1000"
+     transform="translate(-82.0942,-194.06)">
+    <defs
+       id="defs16">
+      <linearGradient
+         id="grad1">
+        <stop
+           offset="0.0000%"
+           stop-color="#00842c"
+           stop-opacity="1.0000"
+           id="stop2" />
+        <stop
+           offset="13.0000%"
+           stop-color="#00842c"
+           stop-opacity="1.0000"
+           id="stop4" />
+        <stop
+           offset="48.0000%"
+           stop-color="#52a222"
+           stop-opacity="1.0000"
+           id="stop6" />
+        <stop
+           offset="74.0000%"
+           stop-color="#a3c400"
+           stop-opacity="1.0000"
+           id="stop8" />
+        <stop
+           offset="99.0000%"
+           stop-color="#eadf00"
+           stop-opacity="1.0000"
+           id="stop10" />
+        <stop
+           offset="100.0000%"
+           stop-color="#eadf00"
+           stop-opacity="1.0000"
+           id="stop12" />
+      </linearGradient>
+      <linearGradient
+         xlink:href="#grad1"
+         id="grad2"
+         x1="324.27328"
+         y1="262.01294"
+         x2="324.27328"
+         y2="414.33261"
+         gradientTransform="scale(0.89016742,1.1233842)"
+         gradientUnits="userSpaceOnUse" />
+    </defs>
+    <path
+       d="m 314.7096,294.3412 h -0.0235 c -16.3852,28.6839 -26.0286,63.6321 -26.0286,101.3887 0,24.7663 4.4869,48.317 12.4555,69.6953 v 0 c 0.0137,0.0165 0.0199,0.0295 0.0199,0.0295 0.0208,-0.013 0.0208,-0.013 0.0208,-0.0295 v 0 c 0,-0.007 0,-0.007 -0.0208,-0.007 v 0 C 316.8284,353.6213 406.8604,307.1392 424.0598,299.842 v 0 c 0.0459,-0.0165 0.1273,-0.0528 0.1749,-0.0812 v 0 c 0.2335,-0.0891 -2.7245,0.4439 -9.1306,0.9751 v 0 c -8.3094,0.6911 -22.4191,1.3818 -42.8871,0.7154 v 0 c -16.5063,-0.5329 -37.2668,-2.5298 -57.5074,-7.1101 z"
+       style="fill:url(#grad2)"
+       id="path18" />
+    <defs
+       id="defs28">
+      <linearGradient
+         id="grad3">
+        <stop
+           offset="0.0000%"
+           stop-color="#00842c"
+           stop-opacity="1.0000"
+           id="stop20" />
+        <stop
+           offset="35.0000%"
+           stop-color="#007126"
+           stop-opacity="1.0000"
+           id="stop22" />
+        <stop
+           offset="100.0000%"
+           stop-color="#005d1f"
+           stop-opacity="1.0000"
+           id="stop24" />
+      </linearGradient>
+      <linearGradient
+         xlink:href="#grad3"
+         id="grad4"
+         x1="215.83235"
+         y1="173.63391"
+         x2="215.83235"
+         y2="362.17776"
+         gradientTransform="scale(0.77820132,1.2850145)"
+         gradientUnits="userSpaceOnUse" />
+    </defs>
+    <path
+       d="m 168.3373,248.3904 c 1.7529,21.3834 10.2362,70.3935 35.9258,113.9237 v 0 c 20.2136,34.1979 49.3103,71.2389 96.8499,103.0896 -7.9686,-21.3835 -12.4555,-44.936 -12.4555,-69.6929 v 0 c 0,-37.7669 9.6434,-72.7176 26.0286,-101.3956 v 0 c -7.9053,-1.8005 -16.0286,-3.8113 -24.2861,-6.0512 v 0 c -70.6697,-19.25 -124.4237,-47.8015 -120.0839,-63.78 v 0 c 0.1375,-0.4812 0.3286,-0.9337 0.5449,-1.3619 v 0 c -2.1967,2.7323 -3.6155,11.9647 -2.5237,25.2683 z"
+       style="fill:url(#grad4)"
+       id="path30" />
+    <defs
+       id="defs39">
+      <linearGradient
+         id="grad5"
+         gradientTransform="scale(0.86202469,1.1600596)"
+         x1="349.33212"
+         y1="258.38406"
+         x2="492.13754"
+         y2="258.38406"
+         gradientUnits="userSpaceOnUse">
+        <stop
+           offset="0.0000%"
+           stop-color="#73b61c"
+           stop-opacity="1.0000"
+           id="stop32" />
+        <stop
+           offset="45.0000%"
+           stop-color="#b6cb00"
+           stop-opacity="1.0000"
+           id="stop34" />
+        <stop
+           offset="100.0000%"
+           stop-color="#eadf00"
+           stop-opacity="1.0000"
+           id="stop36" />
+      </linearGradient>
+    </defs>
+    <path
+       d="m 301.1329,465.388 c 0.0208,0 0.0372,0.0157 0.0372,0.0157 88.729,-63.6606 119.6737,-148.5865 123.0646,-165.6628 v 0 c -16.8266,7.105 -107.3413,53.537 -123.1018,165.6471 z"
+       style="fill:url(#grad5)"
+       id="path41" />
+    <defs
+       id="defs55">
+      <linearGradient
+         id="grad6">
+        <stop
+           offset="0.0000%"
+           stop-color="#f8a600"
+           stop-opacity="1.0000"
+           id="stop43" />
+        <stop
+           offset="0.0000%"
+           stop-color="#f8a600"
+           stop-opacity="1.0000"
+           id="stop45" />
+        <stop
+           offset="15.0000%"
+           stop-color="#fcb900"
+           stop-opacity="1.0000"
+           id="stop47" />
+        <stop
+           offset="53.0000%"
+           stop-color="#ffcb00"
+           stop-opacity="1.0000"
+           id="stop49" />
+        <stop
+           offset="100.0000%"
+           stop-color="#ffdc00"
+           stop-opacity="1.0000"
+           id="stop51" />
+      </linearGradient>
+      <linearGradient
+         xlink:href="#grad6"
+         id="grad7"
+         x1="106.70987"
+         y1="309.28659"
+         x2="106.70987"
+         y2="469.0701"
+         gradientTransform="scale(1.5937679,0.62744394)"
+         gradientUnits="userSpaceOnUse" />
+    </defs>
+    <path
+       d="m 178.5865,217.0432 c -1.9304,1.045 -5.6369,3.0922 -7.7255,6.0789 v 0 c 0,0 -0.024,0.0154 -0.024,0.0319 v 0 c 0,-0.0111 0.011,-0.0148 0.0189,-0.0206 v 0 c -0.2301,0.4367 -0.404,0.8858 -0.5398,1.3506 v 0 c -4.3398,15.9785 49.4142,44.53 120.0839,63.78 v 0 c 8.2575,2.2399 16.3808,4.2507 24.2861,6.0512 v 0 c 24.6532,-43.1346 64.5484,-72.0115 110.0425,-74.6132 v 0 c -12.6372,-6.29 -58.9262,-25.5842 -123.5273,-25.6413 v 0 c -0.1393,0 -0.2796,-7e-4 -0.4189,-7e-4 -35.5503,0 -86.2399,4.454 -122.1959,22.9832 z"
+       style="fill:url(#grad7)"
+       id="path57" />
+    <path
+       d="m 272.4792,510.3844 v -10.4846 h 5.804 c 3.5128,0 7.0169,0.826 7.0169,5.2416 0,4.418 -3.5041,5.243 -7.0169,5.243 z m 17.5292,-5.243 c 0,-4.0943 -2.1269,-9.1039 -10.4753,-9.1039 h -11.4873 v 32.56 h 4.4334 v -14.3498 h 4.9332 l 8.3021,14.3498 h 5.5282 l -9.2684,-14.8545 c 4.9356,-0.5538 8.0341,-4.4664 8.0341,-8.6016 z m 50.3113,23.4561 h 4.43 v -32.561 h -4.43 z m -31.8649,-24.2866 c 0,-2.0224 1.4762,-4.9666 6.3621,-4.9666 2.5325,0 4.7083,1.1481 5.8066,2.8485 l 3.6005,-3.2639 c -2.442,-2.9864 -5.8584,-3.7228 -9.4071,-3.7228 -7.8472,0 -11.0678,5.2863 -11.0678,9.1048 0,12.6966 16.0906,8.0462 16.0906,15.5505 0,3.5859 -3.5903,5.4267 -6.4967,5.4267 -2.6314,0 -5.3509,-1.1034 -6.9161,-3.4973 l -3.6496,3.1269 c 2.2173,3.0853 6.2217,4.511 10.4244,4.511 6.2734,0 11.3495,-3.7754 11.3495,-10.0774 0,-11.7267 -16.0964,-6.804 -16.0964,-15.0404 z m 146.8416,20.1494 h -5.5878 V 500.172 h 6.6463 c 10.6063,0 12.7735,8.0012 12.7735,12.1418 0,8.0516 -6.3638,12.1465 -13.832,12.1465 z m 1.3842,-28.4228 h -11.3927 v 32.56 h 10.6519 c 11.6709,0 17.8935,-7.9557 17.8935,-16.2837 0,-6.0251 -3.362,-16.2763 -17.1527,-16.2763 z m -42.1291,-0.001 -12.8707,32.561 h 4.8461 l 9.9531,-26.4926 h 0.0967 l 9.5983,26.4926 h 5.1139 l -12.5916,-32.561 z m -41.4813,28.4238 h -5.5783 V 500.172 h 6.6378 c 10.6155,0 12.7793,8.0012 12.7793,12.1418 0,8.0516 -6.3586,12.1465 -13.8388,12.1465 z m 1.3867,-28.4228 h -11.3857 v 32.56 h 10.6527 c 11.6647,0 17.8959,-7.9557 17.8959,-16.2837 0,-6.0251 -3.3712,-16.2763 -17.1629,-16.2763 z m 119.3896,28.4228 v -10.4399 h 15.5031 v -4.1417 h -15.5031 v -9.7067 h 16.6617 v -4.1355 h -21.0824 v 32.561 h 21.9023 v -4.1372 z M 102.9334,515.993 c 0,4.0518 -2.0251,9.2951 -8.208,9.2951 -6.1812,0 -8.2114,-5.2433 -8.2114,-9.2951 v -19.9565 h -4.4198 v 20.6497 c 0,7.5483 5.4895,12.7425 12.6312,12.7425 7.1503,0 12.6424,-5.1942 12.6424,-12.7425 v -20.6497 h -4.4344 z m 45.3387,6.8116 h -0.0906 l -17.9838,-26.7681 h -5.8176 v 32.561 h 4.4351 v -26.7656 h 0.0855 l 18.1767,26.7656 h 5.6247 v -32.561 h -4.43 z m 22.0486,5.7929 h 4.4207 v -32.561 h -4.4207 z m 64.7541,-14.5771 h 15.4929 v -4.1417 h -15.4929 v -9.7067 h 16.6488 v -4.1355 h -21.0788 v 32.561 h 21.9092 v -4.1372 h -17.4792 z m -32.3757,8.5085 h -0.0974 l -9.5888,-26.4924 h -5.1234 l 12.5916,32.561 h 4.156 l 12.8597,-32.561 h -4.8358 z"
+       style="fill:#6e7071;fill-rule:evenodd"
+       id="path59" />
+    <path
+       d="m 352.9933,543.611 -30.4154,73.7567 h 17.3966 l 18.5422,-48.3354 h 0.2084 l 18.2212,48.3354 h 18.5414 l -29.48,-73.7567 z m -34.7285,0 -18.5515,48.3388 h -0.1991 L 281.2827,543.611 h -18.5498 l 29.4904,73.7567 h 13.0144 l 30.4144,-73.7567 z m 100.3749,0 h -16.2461 v 73.7567 h 32.7029 l 0.006,-0.005 h 4.4333 c 8.1382,0 14.7466,-6.5584 14.8452,-14.6765 v -0.3176 h -35.7414 z m -258.7276,43.7592 h 31.9866 v -15 H 159.9121 V 558.6196 H 193.765 V 543.611 h -50.1073 v 73.7567 h 32.6994 l 0.01,-0.005 h 4.4305 c 8.1479,0 14.757,-6.5584 14.8445,-14.6765 v -0.3176 h -35.7296 z m -77.8179,29.9975 h 16.2442 v -28.7516 h 30.7338 V 573.6188 H 98.3384 v -14.9992 h 33.2341 V 543.611 H 82.0942 Z m 139.9464,-29.9975 h 31.9865 v -15 h -31.9865 v -13.7506 h 33.8632 V 543.611 h -50.1073 v 73.7567 h 32.7002 v -0.005 h 4.443 c 8.137,0 14.7437,-6.5584 14.8337,-14.6765 v -0.3176 h -35.7328 z m 255.4596,14.9983 v -14.9983 h 31.9855 v -15 h -31.9855 v -13.7506 h 33.8674 V 543.611 h -50.1108 v 73.7567 h 32.6995 l 0.01,-0.005 H 498.4 c 8.1373,0 14.743,-6.5584 14.834,-14.6765 v -0.3176 z"
+       style="fill:#6e7071;fill-rule:evenodd"
+       id="path61" />
+  </g>
+  <metadata
+     id="metadata40">
+    <rdf:RDF>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+      <cc:Work
+         rdf:about="">
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:title>Feevale symbol and logo (vertical)</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
